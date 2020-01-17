@@ -6,7 +6,7 @@
 
 ```text
 Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu, ajk9@nyu.edu • Spring 2020
-Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays • 6:30PM-8:20PM (Diaz) • 2MTC MAGNET 802 • 3 credit hrs
+Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays 6:30PM-8:20PM (Diaz) • 2MTC MAGNET 802 • 3 credit hrs
 ```
 
 #### Office hours by appointment, feel free to reach out to either or both of us at any time during the semester. Andrew will primarily run class on Mondays and Clarisa will primarily run class on Wednesdays, though both of us will be in class part of the time both days.
