@@ -134,7 +134,7 @@ Students will conduct self assessments as well as be evaluated by the professors
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, science, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
+* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (We do not accept requests for excusing absences without approval from the university and are not obligated to respond to emails about personal matters.)
 * Attendance is mandatory for the midterm and final presentations / critiques, where we may bring in outside guests. Because professionalism is so important when presenting to industry guests, failure to attend these presentations will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
