@@ -7,4 +7,4 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 11** | 
-| class | Final One on Ones: Reflections and Feedback | 
+| class | Final One on Ones: Reflections and Feedback by Appointment| 

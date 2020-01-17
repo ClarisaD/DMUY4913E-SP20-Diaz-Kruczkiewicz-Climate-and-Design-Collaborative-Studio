@@ -7,5 +7,5 @@
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 04** | **May 06** |
-| class | NO CLASS - Final Project Self-Assesments: Email to Clarisa & Andrew  |  NO CLASS - Final Project Course Evaluations, Letter to the next cohort: Email to Clarisa & Andrew |
+| class | Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping |  **FINAL PRESENTATION / PIZZA PARTY: FINAL PROJECT & ANNOTATED BIBLIOGRAPHY DUE** |
 | assignment|   |   |
