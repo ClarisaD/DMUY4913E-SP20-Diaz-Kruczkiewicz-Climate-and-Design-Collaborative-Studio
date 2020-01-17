@@ -1,5 +1,5 @@
 ### DM-UY 4913E Special Topics in Digital Media - Climate and Design Collaborative Studio
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 ---
 
 # END OF SEMESTER DELIVERABLES

@@ -1,10 +1,10 @@
 # Assignments
 
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 
 ## Assignments
 
-* [What is Dar es Salaam Moodboard](What_is_Dar_es_Salaam_Moodboard.md)
+* [What is Dar es Salaam Moodboard](What_is_Mongolia_Moodboard.md)
 * [Weather Forecast Log](Weather_Forecast_Log.md)
 * [Translator Profile](Translator_Profile.md)
 * [Climate Spectrum](Climate_Spectrum.md)

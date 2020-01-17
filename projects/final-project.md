@@ -2,11 +2,11 @@
 
 ### DMUY4913E Climate and Design Collaborative Studio
 
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to flood risk in Dar es Salaam. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
+Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to zuds in Mongolia. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
 
 
 ### Annotated Bibliography

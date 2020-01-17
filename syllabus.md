@@ -5,15 +5,15 @@
 #### Integrated Digital Media • Technology, Culture & Society Department
 
 ```text
-Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu, ajk9@nyu.edu • Spring 2019
-Mondays & Wednesdays • 6:30PM-8:20PM • 2MTC MAGNET 820 • 3 credit hrs
+Clarisa Diaz, Andrew Kruczkiewicz • clarisa.diaz@nyu.edu, ajk9@nyu.edu • Spring 2020
+Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays • 6:30PM-8:20PM (Diaz) • 2MTC MAGNET 802 • 3 credit hrs
 ```
 
-#### Office hours by appointment or directly after class.
+#### Office hours by appointment, feel free to reach out to either or both of us at any time during the semester. Andrew will primarily run class on Mondays and Clarisa will primarily run class on Wednesdays, though both of us will be in class part of the time both days.
 
-#### Gitbook Repository: [https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/](https://clarisadiaz.gitbook.io/dmuy4913e-sp19-diaz-kruczkiewicz-climate-design/)
+#### Gitbook Repository: [https://clarisadiaz.gitbook.io/climate-and-design-collaborative-studio-nyu/](https://clarisadiaz.gitbook.io/climate-and-design-collaborative-studio-nyu/)
 
-#### Course shared Google Drive folder, Climate & Design Spring 2019: [https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)
+#### Course shared Google Drive folder, Climate & Design Spring 2020: [https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)
 
 
 ## Welcome to the Climate & Design Collaborative Studio!
@@ -196,30 +196,17 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED READINGS
 
-_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1wLgz8ggWn7wY6KZRQ3PfXlUJh_45_mWf?usp=sharing)_
+_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)_
+
+
+**ZUD MATERIALS**
+**MONGOLIA MATERIALS**
 
 * [It’s Time To Ditch The Concept Of ‘100-Year Floods’ - FiveThirtyEight](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
 * [How America Fails at Communicating Flood Risks - CityLab](https://www.citylab.com/environment/2018/10/how-america-fails-communicating-flood-risks/572620/)
 * [Climate Change as a Design Problem - The New York Times](https://www.nytimes.com/2017/06/16/insider/climate-change-as-a-design-problem-architecture-rotterdam.html)
-* [23 Fun Things to do in Dar Es Salaam, Tanzania](https://migrationology.com/things-to-do-in-dar-es-salaam-tanzania/)
-* [An insider's cultural guide to Dar Es Salaam: laid-back bustle and bongo flava](https://www.theguardian.com/cities/2015/dec/07/insider-cultural-guide-dar-es-salaam-bongo-flava)
-* [Anthony Bourdain: Tanzania](https://explorepartsunknown.com/tanzania/bourdains-field-notes-tanzania/)
-* [The Bright Future of Dar es Salaam, an Unlikely African Megacity](https://www.citylab.com/design/2015/02/the-bright-future-of-dar-es-salaam-an-unlikely-african-megacity/385801/)
-* [New master plan crucial for turning Dar into sustainable city](https://www.thecitizen.co.tz/News/New-master-plan-crucial-for-turning-Dar-into-sustainable-city/1840340-4091494-tbuneiz/index.html)
-* [The list of bans imposed by Tanzania’s populist](https://qz.com/africa/1185367/tanzanias-john-magufuli-imposes-bans-on-foreign-ships-pregnant-schoolgirls-and-public-rallies/)
 * [Humanitarian Open Street Map](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map)
-* [Vulnerability to Dar es Salaam City to Impacts of Climate Change](http://pubs.iied.org/pdfs/G02388.pdf)
-* [Building Just Responses to Flooding (in the context of Dar es Salaam)](https://www.ucl.ac.uk/bartlett/development/sites/bartlett/files/2017_flooding.pdf)
-* [Community Mapping for Flood Resilience – The case of Dar es Salaam, Tanzania](https://agile-online.org/conference_paper/cds/agile_2018/posters/155%20Fina_AGILE_2018_Msilanga.pdf)
-* [Dar Es Salaam: Participatory modelling of floods using community mapped OpenStreetMap data](https://www.deltares.nl/en/projects/participatory-modelling-of-floods-using-community-mapped-openstreetmap-data/)
-* [Tanzania Urban Resilience Program - World Bank](http://www.worldbank.org/en/programs/tanzania-urban-resilience-program#0)
-* [Mapping Flood Risk in Tanzania](https://www.worldbank.org/en/news/video/2018/02/22/mapping-flood-risk-in-tanzania)
-* [Challenges in coping with flooding in Dar Es Salaam](https://vimeo.com/113227108)
-* [Green infrastructure for flood-risk management in Dar es Salaam and Copenhagen: exploring the potential for transitions towards sustainable urban water management](https://iwaponline.com/wp/article-abstract/17/1/126/31496/Green-infrastructure-for-flood-risk-management-in)
-* [Flooding, flood risks and coping strategies in urban informal residential areas : the case of Keko Machungwa](https://journals.co.za/content/jemba/4/1/EJC125636)
-* [Using music and dance to improve health in a Tanzanian refugee camp](https://www.ifrc.org/en/news-and-media/news-stories/africa/tanzania/using-music-and-dance-to-improve-health-in-a-tanzanian-refugee-camp-72303/)
-* [Red Cross warns on use of its logo](https://www.thecitizen.co.tz/News/Red-Cross-warns-on-use-of-its-logo/1840340-4830088-hv94t4/index.html)
-* [Red Cross Emergency Plan of Action - Tanzania Floods 2018](https://reliefweb.int/sites/reliefweb.int/files/resources/MDRTZ021do.pdf)
+
 
 
 ### REQUIRED MEDIA
@@ -244,7 +231,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [What is Dar es Salaam Moodboard](assignments/What_is_Dar_es_Salaam_Moodboard.md)
+* [What is Mongolia Moodboard](assignments/What_is_Mongolia_Moodboard.md)
 * [Weather Forecast Log](assignments/Weather_Forecast_Log.md)
 * [Translator Profile](assignments/Translator_Profile.md)
 * [Climate Spectrum](assignments/Climate_Spectrum.md)

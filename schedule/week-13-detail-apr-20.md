@@ -1,11 +1,11 @@
-# Week 13 Detail Apr 22
+# Week 13 Detail Apr 20
 
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 
 ## [Schedule:](./) Week 13
 
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Apr 22** | **Apr 24** |
+| 1 | **Apr 20** | **Apr 22** |
 | class | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors  | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors |
 | assignment| Project progress  | Project progress  |

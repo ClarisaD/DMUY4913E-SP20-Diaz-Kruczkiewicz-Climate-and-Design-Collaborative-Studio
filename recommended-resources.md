@@ -1,6 +1,6 @@
 # Recommended Resources
 
-### Spring • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 
 ## Recommended Resources
 

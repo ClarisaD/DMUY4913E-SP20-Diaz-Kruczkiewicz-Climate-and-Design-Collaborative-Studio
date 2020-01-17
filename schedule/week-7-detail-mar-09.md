@@ -1,11 +1,11 @@
-# Week 7 Detail Mar 11
+# Week 7 Detail Mar 09
 
-### Spring 2019 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays and Wednesdays • 6:30-8:20pm • 2MTC MAGNET 820
+### Spring 2020 • Clarisa Diaz, Andrew Kruczkiewicz • Mondays 7:00-8:50pm • Wednesdays 6:30-8:20pm • 2MTC MAGNET 802
 
 ## [Schedule:](./) Week 7
 
 | wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Mar 11** | **Mar 13** |
+| 1 | **Mar 09** | **Mar 11** |
 | class | **MIDTERM PROJECT & ANNOTATED BIBLIOGRPAHY, SELF-ASSESSMENT DUE** Midterm Presentations  |  Midterm Presentations |
 | assignment|   |   |
