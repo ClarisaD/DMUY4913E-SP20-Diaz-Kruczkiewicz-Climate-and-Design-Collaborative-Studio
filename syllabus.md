@@ -18,11 +18,7 @@ Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays 6:30PM-8:20PM (Diaz) • 2MTC 
 
 ## Welcome to the Climate & Design Collaborative Studio!
 
-Students in this course will explore the challenges of the human impact of climate change by thinking and working through a real-life case study. Dar es Salaam in Tanzania is selected as a location of rapid urban change and more frequent flooding. Using background information provided by the course partner, Red Cross Red Crescent Climate Centre, students will study how the city has evolved, the current social and climate related stressors, and what needs may be present in communities that live there. 
-
-The course will be studio based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could the city develop protection from floods? How might someone get food when the streets are uninhabitable? Questions explored through projects are open to student interest based on their investigations. 
-
-The end result of the course is to gain a better understanding of macro and micro issues at hand when it comes to climate change solutions and the various people that need them. Students will come away with having explored the role integrated media and technology plays in addressing the issues of adapting to climate change. Similarities and differences between ideas for urban spaces in Dar es Salaam may also be compared to other cities, like New York City.  
+The objective of this course is to integrate science and design when it comes to proposing solutions for adapting to climate change. Traditionally these two fields work separately, but this course presents the opportunity for students to receive a background in climate science and apply it to their design work. The course will focus on a real-life case study, rural communities of Mongolia affected by zuds that cause severe winters. Students will explore macro and micro issues of the challenges of communicating climate risks; discussing issues with both professors who work in the industry as well as with guests from the design, science, NGO, and journalism fields. The course will be studio-based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could a region develop protection from floods or frost? How might someone get food when the streets are uninhabitable? The final project of the course culminates in service-oriented design proposals specific to the zud climate conditions in rural areas of Mongolia.  
 
 
 Prerequisite: None
@@ -136,10 +132,10 @@ Students will conduct self assessments as well as be evaluated by the professors
 **Attendance**
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, science, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
+* Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class \(in person or via email\).
-* Attendance is mandatory for the midterm and final presentations / critiques.
+* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (I do not accept requests for excusing absences without approval from the university and am not obligated to respond to emails about personal matters.)
+* Attendance is mandatory for the midterm and final presentations / critiques, where we may bring in outside guests. Because professionalism is so important when presenting to industry guests, failure to attend these presentations will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
