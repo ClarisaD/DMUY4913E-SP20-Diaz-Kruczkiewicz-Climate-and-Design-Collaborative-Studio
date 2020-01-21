@@ -195,7 +195,7 @@ If you are student with a disability who is requesting accommodations, please co
 _The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)_
 
 
-## MONGOLIA AND DZUDS**
+## MONGOLIA AND DZUDS
 
 
 * [The Danger of Dzud, Mongolia's Lethal Winters](https://www.nationalgeographic.com/photography/proof/2018/04/extreme-winter-mongolia-dzud-environment-science/)
