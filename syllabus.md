@@ -1,4 +1,4 @@
-# DMUY4913E - Climate & Design Syllabus
+# Syllabus
 
 ![](.gitbook/assets/nyu-tandon.png)
 

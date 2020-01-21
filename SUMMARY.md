@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [DMUY4913E - Climate & Design Syllabus](dmuy4913e-climate-and-design-syllabus.md)
+* [Syllabus](syllabus.md)
 * [Schedule](schedule/README.md)
   * [Week 1 Detail Jan 27](schedule/week-1-detail-jan-27.md)
   * [Week 2 Detail Feb 03](schedule/week-2-detail-feb-03.md)
