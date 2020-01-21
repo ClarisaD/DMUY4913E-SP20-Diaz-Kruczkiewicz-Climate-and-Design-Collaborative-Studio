@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 15
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **May 04** | **May 06** |
 | class | Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping |  **FINAL PRESENTATION / PIZZA PARTY: FINAL PROJECT & ANNOTATED BIBLIOGRAPHY DUE** |

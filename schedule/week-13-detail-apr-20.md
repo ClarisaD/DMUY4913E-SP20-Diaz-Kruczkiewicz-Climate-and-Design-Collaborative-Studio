@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 13
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Apr 20** | **Apr 22** |
 | class | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors  | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors |

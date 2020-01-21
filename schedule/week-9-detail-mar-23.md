@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 9
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Mar 23** | **Mar 25** |
 | class | Midterm One-on-Ones | Midterm One-on-Ones Working Session: Final Project Research & Combining ideas |

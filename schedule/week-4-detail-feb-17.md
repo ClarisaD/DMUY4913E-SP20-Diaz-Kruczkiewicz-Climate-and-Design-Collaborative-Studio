@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 4
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 17** | **Feb 19** |
 | class | NO CLASS - Presidents' Day | Weather Forecast Log DUE and posted on blog, share in class. Climate Spectrum. Translator Profile. Class exercise: Assume the role of a weather forecaster or a red cross worker, work through a weather emergency scenario. Individual Midterm Exploring, Brainstorm: Research Directions |

@@ -4,6 +4,8 @@
 
 ## Assignment Guidelines
 
+Assignments are due by the next class unless otherwise stated.
+
 As with all written work, proofread for spelling and grammar. This is where working as a team will come in handy.
 
 Any work that you will turn in, should always contain the following:

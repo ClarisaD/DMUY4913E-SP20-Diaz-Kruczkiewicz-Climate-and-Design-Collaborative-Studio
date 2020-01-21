@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 5
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 24** | **Feb 26** |
 | class | Translator Profile DUE and posted on blog. Discuss Translator Profiles. Map Slam I.  |  Climate Spectrum DUE and posted on blog, Spectrum Swap in class. Midterm Working Session: Research, User Profiles & Systems in Mongolia for Communicating Risk |

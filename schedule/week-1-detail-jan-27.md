@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 1
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Jan 27** | **Jan 29** |
 | class | Course and Student Introductions Overview of Course, Red Cross Game | Mongolia - Setting, Feeling, Culture, Geography. What's a mood board and visual tools for concepting. |

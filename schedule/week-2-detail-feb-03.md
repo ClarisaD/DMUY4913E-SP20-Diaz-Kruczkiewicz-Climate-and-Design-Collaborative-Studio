@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 2
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Feb 03** | **Feb 05**   Feb 09: Last day to drop Spring 2020 classes and not receive a grade of "W". Refer to the [NYU academic calendar](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1194). |
 | class | Climate 101: Physical Science of Climate Change Intro | Ways of Seeing and Systems Thinking: Macro Tools. Mood boards DUE and posted on blog, present in class. |

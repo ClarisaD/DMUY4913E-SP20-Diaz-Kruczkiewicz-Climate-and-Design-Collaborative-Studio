@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 6
 
-| wk | Mondays \(due on date listed\) | Wednesdays \(due on date listed\) |
+| wk | Mondays  | Wednesdays  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **Mar 02** | **Mar 04** |
 | class | Map Slam II | Class Midterm Presentation: Share systems and stakeholder maps, and idea proposals with class.  |
