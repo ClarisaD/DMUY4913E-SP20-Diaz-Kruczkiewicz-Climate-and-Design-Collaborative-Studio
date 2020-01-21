@@ -8,6 +8,6 @@ It’s Friday afternoon, just around the time when you usually leave the office.
  
 You need to make a decision- What do you do?
 
-In groups of 3, you will assume the role of a Red Cross disaster manager in Dar es Salaam. As a group you need to identify what action, if any, you will take - justifying the decision with a map to show the National Office of Disaster Management. You will need to identify what the best available map is to make that decision. Note: The act of ‘not acting’ may be criticized by the government as social and traditional media are noting the risk of floods.
+In groups of 3, you will assume the role of a Red Cross disaster manager in Mongolia. As a group you need to identify what action, if any, you will take - justifying the decision with a map to show the National Office of Disaster Management. You will need to identify what the best available map is to make that decision. Note: The act of ‘not acting’ may be criticized by the government as social and traditional media are noting the risk of floods.
 
 On Wednesday, the groups will go head to head in a Map Slam, in a debate style to determine which map is best. 

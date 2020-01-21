@@ -4,7 +4,7 @@
 
 ## Assignments
 
-* [What is Dar es Salaam Moodboard](What_is_Mongolia_Moodboard.md)
+* [What is Mongolia Moodboard](What_is_Mongolia_Moodboard.md)
 * [Weather Forecast Log](Weather_Forecast_Log.md)
 * [Translator Profile](Translator_Profile.md)
 * [Climate Spectrum](Climate_Spectrum.md)

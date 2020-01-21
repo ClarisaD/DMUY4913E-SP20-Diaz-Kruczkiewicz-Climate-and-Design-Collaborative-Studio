@@ -18,7 +18,7 @@ Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays 6:30PM-8:20PM (Diaz) • 2MTC 
 
 ## Welcome to the Climate & Design Collaborative Studio!
 
-The objective of this course is to integrate science and design when it comes to proposing solutions for adapting to climate change. Traditionally these two fields work separately, but this course presents the opportunity for students to receive a background in climate science and apply it to their design work. The course will focus on a real-life case study, rural communities of Mongolia affected by zuds that cause severe winters. Students will explore macro and micro issues of the challenges of communicating climate risks; discussing issues with both professors who work in the industry as well as with guests from the design, science, NGO, and journalism fields. The course will be studio-based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could a region develop protection from floods or frost? How might someone get food when the streets are uninhabitable? The final project of the course culminates in service-oriented design proposals specific to the zud climate conditions in rural areas of Mongolia.  
+The objective of this course is to integrate science and design when it comes to proposing solutions for adapting to climate change. Traditionally these two fields work separately, but this course presents the opportunity for students to receive a background in climate science and apply it to their design work. The course will focus on a real-life case study, rural communities of Mongolia affected by dzuds that cause severe winters. Students will explore macro and micro issues of the challenges of communicating climate risks; discussing issues with both professors who work in the industry as well as with guests from the design, science, NGO, and journalism fields. The course will be studio-based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could a region develop protection from floods or frost? How might someone get food when the streets are uninhabitable? The final project of the course culminates in service-oriented design proposals specific to the zud climate conditions in rural areas of Mongolia.  
 
 
 Prerequisite: None
@@ -68,7 +68,7 @@ There will be discrete team and individual exercises and projects that require y
 
 **Phase 1: Discovery / Inspiration**
 
-* Research into climate change topics and the Dar es Salaam site
+* Research into climate change topics and the Mongolia site
 
 **Phase 2: Research / Ideation / Brainstorming**
 
@@ -195,11 +195,14 @@ If you are student with a disability who is requesting accommodations, please co
 _The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)_
 
 
-**ZUD MATERIALS**
-**MONGOLIA MATERIALS**
+## MONGOLIA AND DZUDS**
 
-* [It’s Time To Ditch The Concept Of ‘100-Year Floods’ - FiveThirtyEight](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
-* [How America Fails at Communicating Flood Risks - CityLab](https://www.citylab.com/environment/2018/10/how-america-fails-communicating-flood-risks/572620/)
+
+* [The Danger of Dzud, Mongolia's Lethal Winters](https://www.nationalgeographic.com/photography/proof/2018/04/extreme-winter-mongolia-dzud-environment-science/)
+* [Nomads No More: Why Mongolian Herders Are Moving to the City](https://www.theguardian.com/world/2017/jan/05/mongolian-herders-moving-to-city-climate-change)
+* [Mongolian winter 'dzud' kills 700,000 head of livestock](https://www.reuters.com/article/us-mongolia-agriculture/mongolian-winter-dzud-kills-700000-head-of-livestock-idUSKCN1GQ12L)
+* [The slow and deadly dzud in Mongolia](https://www.bbc.com/news/world-asia-35983912)
+* [Red Cross releases funds in anticipation of extreme winter in Mongolia](https://media.ifrc.org/ifrc/press-release/red-cross-releases-funds-anticipation-extreme-winter-mongolia/)
 * [Climate Change as a Design Problem - The New York Times](https://www.nytimes.com/2017/06/16/insider/climate-change-as-a-design-problem-architecture-rotterdam.html)
 * [Humanitarian Open Street Map](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map)
 

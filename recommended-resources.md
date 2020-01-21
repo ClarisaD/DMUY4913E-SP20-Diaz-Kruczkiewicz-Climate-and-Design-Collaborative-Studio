@@ -50,16 +50,7 @@
 * [Designing Interactions Interviews](http://www.designinginteractions.com/interviews)
 * [An Incomplete Manifesto for Growth by Bruce Mau](http://www.manifestoproject.it/bruce-mau/)
 
-**About Dar es Salaam**
 
-* [23 Fun Things to do in Dar Es Salaam, Tanzania](https://migrationology.com/things-to-do-in-dar-es-salaam-tanzania/)
-* [An insider's cultural guide to Dar Es Salaam: laid-back bustle and bongo flava](https://www.theguardian.com/cities/2015/dec/07/insider-cultural-guide-dar-es-salaam-bongo-flava)
-* [Anthony Bourdain: Tanzania](https://explorepartsunknown.com/tanzania/bourdains-field-notes-tanzania/)
-* [The Bright Future of Dar es Salaam, an Unlikely African Megacity](https://www.citylab.com/design/2015/02/the-bright-future-of-dar-es-salaam-an-unlikely-african-megacity/385801/)
-* [New master plan crucial for turning Dar into sustainable city](https://www.thecitizen.co.tz/News/New-master-plan-crucial-for-turning-Dar-into-sustainable-city/1840340-4091494-tbuneiz/index.html)
-* [The list of bans imposed by Tanzania’s populist](https://qz.com/africa/1185367/tanzanias-john-magufuli-imposes-bans-on-foreign-ships-pregnant-schoolgirls-and-public-rallies/)
-* [Dar es Salaam - Wikipedia](https://en.wikipedia.org/wiki/Dar_es_Salaam)
-* [Dar es Slaam - Wikitravel](https://wikitravel.org/en/Dar_es_Salaam)
 
 **Fair Use Media**
 

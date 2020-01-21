@@ -6,7 +6,7 @@
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to zuds in Mongolia. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
+Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to dzuds in Mongolia. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
 
 
 ### Annotated Bibliography
