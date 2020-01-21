@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 11
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Apr 06** | **Apr 08** |
-| class | Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors. |  Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors|
-| assignment| Project progress  | Project progress  |
+| class | Working Session: Share Final Project Development Systems Map & Tool\(s\) Prototyping with instructors. | Working Session: Share Final Project Development Systems Map & Tool\(s\) Prototyping with instructors |
+| assignment | Project progress | Project progress |
+

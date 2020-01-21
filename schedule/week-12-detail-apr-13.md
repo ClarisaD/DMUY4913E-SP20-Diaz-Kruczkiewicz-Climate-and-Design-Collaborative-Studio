@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 12
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Apr 13** | **Apr 15** |
-| class | Working Session: Share Final Project Development Systems Map & Tool(s) Prototyping with instructors | Class Presentation: Final Project Progress  |
-| assignment| Project progress  | Project progress  |
+| class | Working Session: Share Final Project Development Systems Map & Tool\(s\) Prototyping with instructors | Class Presentation: Final Project Progress |
+| assignment | Project progress | Project progress |
+

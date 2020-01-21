@@ -1,6 +1,6 @@
-# Syllabus
+# DMUY4913E - Climate & Design Syllabus
 
-![](NYU-Tandon.png)
+![](.gitbook/assets/nyu-tandon.png)
 
 #### Integrated Digital Media • Technology, Culture & Society Department
 
@@ -13,13 +13,11 @@ Mondays 7:00PM-8:50PM (Kruczkiewicz) & Wednesdays 6:30PM-8:20PM (Diaz) • 2MTC 
 
 #### Gitbook Repository: [https://clarisadiaz.gitbook.io/climate-and-design-collaborative-studio-nyu/](https://clarisadiaz.gitbook.io/climate-and-design-collaborative-studio-nyu/)
 
-#### Course shared Google Drive folder, Climate & Design Spring 2020: [https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)
-
+#### Course shared Google Drive folder, Climate & Design Spring 2020: [https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL\_S3g?usp=sharing](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)
 
 ## Welcome to the Climate & Design Collaborative Studio!
 
-The objective of this course is to integrate science and design when it comes to proposing solutions for adapting to climate change. Traditionally these two fields work separately, but this course presents the opportunity for students to receive a background in climate science and apply it to their design work. The course will focus on a real-life case study, rural communities of Mongolia affected by dzuds that cause severe winters. Students will explore macro and micro issues of the challenges of communicating climate risks; discussing issues with both professors who work in the industry as well as with guests from the design, science, NGO, and journalism fields. The course will be studio-based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could a region develop protection from floods or frost? How might someone get food when the streets are uninhabitable? The final project of the course culminates in service-oriented design proposals specific to the dzud climate conditions in rural areas of Mongolia.  
-
+The objective of this course is to integrate science and design when it comes to proposing solutions for adapting to climate change. Traditionally these two fields work separately, but this course presents the opportunity for students to receive a background in climate science and apply it to their design work. The course will focus on a real-life case study, rural communities of Mongolia affected by dzuds that cause severe winters. Students will explore macro and micro issues of the challenges of communicating climate risks; discussing issues with both professors who work in the industry as well as with guests from the design, science, NGO, and journalism fields. The course will be studio-based, creating a series of assignments and projects that explore questions like: How would residents receive communication of approaching storms? How could a region develop protection from floods or frost? How might someone get food when the streets are uninhabitable? The final project of the course culminates in service-oriented design proposals specific to the dzud climate conditions in rural areas of Mongolia.
 
 Prerequisite: None
 
@@ -31,7 +29,6 @@ The following Integrated Digital Media program goals are introduced and reinforc
 * develop a line of thought related to adapting to climate change through inquiry and iteration.
 * develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
 * develop collaboration skills to actively and effectively work in a team or group.
-
 
 ### COURSE GOALS
 
@@ -134,7 +131,7 @@ Students will conduct self assessments as well as be evaluated by the professors
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, science, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. Two absences are allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. (We do not accept requests for excusing absences without approval from the university and are not obligated to respond to emails about personal matters.)
+* According to NYU policy, absences are only excused if the professor receives notification from the Office of Student Affairs. \(We do not accept requests for excusing absences without approval from the university and are not obligated to respond to emails about personal matters.\)
 * Attendance is mandatory for the midterm and final presentations / critiques, where we may bring in outside guests. Because professionalism is so important when presenting to industry guests, failure to attend these presentations will result in a 10% reduction of your overall grade for each instance.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
@@ -192,11 +189,9 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED READINGS
 
-_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course [Google Drive](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)_
-
+_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates. You may also find readings in the course_ [_Google Drive_](https://drive.google.com/drive/folders/1sJSgiRjFirovEnv2tVMsfVdACYGL_S3g?usp=sharing)
 
 ## MONGOLIA AND DZUDS
-
 
 * [The Danger of Dzud, Mongolia's Lethal Winters](https://www.nationalgeographic.com/photography/proof/2018/04/extreme-winter-mongolia-dzud-environment-science/)
 * [Nomads No More: Why Mongolian Herders Are Moving to the City](https://www.theguardian.com/world/2017/jan/05/mongolian-herders-moving-to-city-climate-change)
@@ -206,14 +201,11 @@ _The following list of required readings may be incomplete and is subject to cha
 * [Climate Change as a Design Problem - The New York Times](https://www.nytimes.com/2017/06/16/insider/climate-change-as-a-design-problem-architecture-rotterdam.html)
 * [Humanitarian Open Street Map](https://www.hotosm.org/projects/dar_ramani_huria_dar_open_map)
 
-
-
 ### REQUIRED MEDIA
 
 _The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
 
 * [99% Invisible - Climate Series](https://99percentinvisible.org/?s=climate&post_type[]=episode&post_type[]=article&paged=) 
-
 
 ### [RECOMMENDED RESOURCES](recommended-resources.md)
 
@@ -230,13 +222,13 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [What is Mongolia Moodboard](assignments/What_is_Mongolia_Moodboard.md)
-* [Weather Forecast Log](assignments/Weather_Forecast_Log.md)
-* [Translator Profile](assignments/Translator_Profile.md)
-* [Climate Spectrum](assignments/Climate_Spectrum.md)
-* [Spectrum Swap](assignments/Spectrum_Swap.md)
-* [Personal Climate Spectrum](assignments/Personal_Climate_Spectrum.md)
-* [Map Slam](assignments/Map_Slam.md)
+* [What is Mongolia Moodboard](assignments/what_is_mongolia_moodboard.md)
+* [Weather Forecast Log](assignments/weather_forecast_log.md)
+* [Translator Profile](assignments/translator_profile.md)
+* [Climate Spectrum](assignments/climate_spectrum.md)
+* [Spectrum Swap](assignments/spectrum_swap.md)
+* [Personal Climate Spectrum](assignments/personal_climate_spectrum.md)
+* [Map Slam](assignments/map_slam.md)
 * [Self Assessments](assignments/self-assessments.md) 
 
 ### [SCHEDULE OVERVIEW GRID](schedule/)

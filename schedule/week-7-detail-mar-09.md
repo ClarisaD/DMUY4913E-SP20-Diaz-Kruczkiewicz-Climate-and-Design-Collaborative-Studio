@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 7
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Mar 09** | **Mar 11** |
-| class | **MIDTERM PROJECT & ANNOTATED BIBLIOGRPAHY, SELF-ASSESSMENT DUE** Midterm Presentations  |  Midterm Presentations |
-| assignment|   |   |
+| class | **MIDTERM PROJECT & ANNOTATED BIBLIOGRPAHY, SELF-ASSESSMENT DUE** Midterm Presentations | Midterm Presentations |
+| assignment |  |  |
+

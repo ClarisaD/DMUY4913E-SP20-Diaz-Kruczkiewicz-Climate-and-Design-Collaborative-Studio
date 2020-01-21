@@ -4,7 +4,8 @@
 
 ## [Schedule:](./) Week 16
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | **May 11** | 
-| class | Final One on Ones: Reflections and Feedback by Appointment| 
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
+| 1 | **May 11** |  |
+| class | Final One on Ones: Reflections and Feedback by Appointment |  |
+

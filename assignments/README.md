@@ -4,12 +4,12 @@
 
 ## Assignments
 
-* [What is Mongolia Moodboard](What_is_Mongolia_Moodboard.md)
-* [Weather Forecast Log](Weather_Forecast_Log.md)
-* [Translator Profile](Translator_Profile.md)
-* [Climate Spectrum](Climate_Spectrum.md)
-* [Spectrum Swap](Spectrum_Swap.md)
-* [Personal Climate Spectrum](Personal_Climate_Spectrum.md)
-* [Map Slam](Map_Slam.md)
+* [What is Mongolia Moodboard](what_is_mongolia_moodboard.md)
+* [Weather Forecast Log](weather_forecast_log.md)
+* [Translator Profile](translator_profile.md)
+* [Climate Spectrum](climate_spectrum.md)
+* [Spectrum Swap](spectrum_swap.md)
+* [Personal Climate Spectrum](personal_climate_spectrum.md)
+* [Map Slam](map_slam.md)
 * [Self Assessments](self-assessments.md) 
 

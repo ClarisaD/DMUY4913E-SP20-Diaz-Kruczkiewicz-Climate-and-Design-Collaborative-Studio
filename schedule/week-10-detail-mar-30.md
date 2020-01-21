@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 10
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Mar 30** | **Apr 01**    Apr 03: Last Day to Withdraw from Course. Refer to the [NYU academic calendar](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1194) |
-| class | Working Session: Share Final Project Concepting with instructors | Class Presentation: Final Project Progress  |
-| assignment| Revise concepts based on feedback, develop project futher.  |  Revise project based on feedback. Create prototypes. |
+| class | Working Session: Share Final Project Concepting with instructors | Class Presentation: Final Project Progress |
+| assignment | Revise concepts based on feedback, develop project futher. | Revise project based on feedback. Create prototypes. |
+

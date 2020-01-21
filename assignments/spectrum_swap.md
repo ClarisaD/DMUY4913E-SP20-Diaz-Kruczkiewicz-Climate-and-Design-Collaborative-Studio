@@ -4,4 +4,5 @@
 
 ## Spectrum Swap
 
-Swap your climate spectrum with someone in the class.  Interpret their spectrum and how it compares to yours. Post on your blog.
+Swap your climate spectrum with someone in the class. Interpret their spectrum and how it compares to yours. Post on your blog.
+

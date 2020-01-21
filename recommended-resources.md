@@ -9,9 +9,7 @@
 * [99% Invisible - Climate Series](https://99percentinvisible.org/?s=climate&post_type[]=episode&post_type[]=article&paged=) 
 * [Science Friday](https://www.sciencefriday.com/)
 
-
 **Recommended Books & Articles**
-
 
 * [The Signal and The Noise - Nate Silver](https://www.amazon.com/gp/product/0143125087/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 * [The Global Framework for Climate Services](https://www.nature.com/articles/nclimate1745)
@@ -49,8 +47,6 @@
 * ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
 * [Designing Interactions Interviews](http://www.designinginteractions.com/interviews)
 * [An Incomplete Manifesto for Growth by Bruce Mau](http://www.manifestoproject.it/bruce-mau/)
-
-
 
 **Fair Use Media**
 

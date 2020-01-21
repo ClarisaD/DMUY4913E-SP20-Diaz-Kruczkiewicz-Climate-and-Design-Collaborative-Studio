@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 14
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Apr 27** | **Apr 29** |
-| class | Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping  |  Working Session: Final Project High Fidelity Systems Map & Tool(s) Prototyping |
-| assignment| Final project polishing  |   |
+| class | Working Session: Final Project High Fidelity Systems Map & Tool\(s\) Prototyping | Working Session: Final Project High Fidelity Systems Map & Tool\(s\) Prototyping |
+| assignment | Final project polishing |  |
+

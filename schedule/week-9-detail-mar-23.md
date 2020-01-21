@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 9
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Mar 23** | **Mar 25** |
 | class | Midterm One-on-Ones | Midterm One-on-Ones Working Session: Final Project Research & Combining ideas |
-| assignment| Post ideas from group brainstrom  |  Post synthesis of ideas, develop concepts to share with instructors. |
+| assignment | Post ideas from group brainstrom | Post synthesis of ideas, develop concepts to share with instructors. |
+

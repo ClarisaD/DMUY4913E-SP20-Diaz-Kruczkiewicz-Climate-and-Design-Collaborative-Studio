@@ -8,10 +8,9 @@
 
 Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to dzuds in Mongolia. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
 
-
 ### Annotated Bibliography
 
-You will write an annotated bibliography as a team. We recommend using google docs to collaboratively write. The bare minimum of sources is ten. You will be graded based on the thoroughness of your research.  You should have many different types of sources in your bibliography.  These sources should have an impact on the work you create.
+You will write an annotated bibliography as a team. We recommend using google docs to collaboratively write. The bare minimum of sources is ten. You will be graded based on the thoroughness of your research. You should have many different types of sources in your bibliography. These sources should have an impact on the work you create.
 
 Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
 

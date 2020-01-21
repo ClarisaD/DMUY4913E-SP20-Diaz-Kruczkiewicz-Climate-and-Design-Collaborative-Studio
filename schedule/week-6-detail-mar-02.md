@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 6
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Mar 02** | **Mar 04** |
-| class | Map Slam II | Class Midterm Presentation: Share systems and stakeholder maps, and idea proposals with class.  |
-| assignment| Revise midterm work based on class feedback |  Contine to work on midterm |
+| class | Map Slam II | Class Midterm Presentation: Share systems and stakeholder maps, and idea proposals with class. |
+| assignment | Revise midterm work based on class feedback | Contine to work on midterm |
+

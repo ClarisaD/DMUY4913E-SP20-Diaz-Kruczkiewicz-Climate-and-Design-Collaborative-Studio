@@ -1,8 +1,7 @@
 # Table of contents
 
-<!-- * Welcome to Ideation and Prototyping! <iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- -->
-* [Syllabus](syllabus.md)
+* [Introduction](README.md)
+* [DMUY4913E - Climate & Design Syllabus](dmuy4913e-climate-and-design-syllabus.md)
 * [Schedule](schedule/README.md)
   * [Week 1 Detail Jan 27](schedule/week-1-detail-jan-27.md)
   * [Week 2 Detail Feb 03](schedule/week-2-detail-feb-03.md)
@@ -21,13 +20,13 @@
   * [Week 15 Detail May 04](schedule/week-15-detail-may-04.md)
   * [Week 16 Detail May 11](schedule/week-16-detail-may-11.md)
 * [Assignments](assignments/README.md)
-  * [What is Mongolia Moodboard](assignments/What_is_Mongolia_Moodboard.md)
-  * [Weather Forecast Log](assignments/Weather_Forecast_Log.md)
-  * [Translator Profile](assignments/Translator_Profile.md)
-  * [Climate Spectrum](assignments/Climate_Spectrum.md)
-  * [Spectrum Swap](assignments/Spectrum_Swap.md)
-  * [Personal Climate Spectrum](assignments/Personal_Climate_Spectrum.md)
-  * [Map Slam](assignments/Map_Slam.md)
+  * [What is Mongolia Moodboard](assignments/what_is_mongolia_moodboard.md)
+  * [Weather Forecast Log](assignments/weather_forecast_log.md)
+  * [Translator Profile](assignments/translator_profile.md)
+  * [Climate Spectrum](assignments/climate_spectrum.md)
+  * [Spectrum Swap](assignments/spectrum_swap.md)
+  * [Personal Climate Spectrum](assignments/personal_climate_spectrum.md)
+  * [Map Slam](assignments/map_slam.md)
   * [Self Assessments](assignments/self-assessments.md)
 * [Projects](projects/README.md)
   * [Midterm Project](projects/midterm-project.md)

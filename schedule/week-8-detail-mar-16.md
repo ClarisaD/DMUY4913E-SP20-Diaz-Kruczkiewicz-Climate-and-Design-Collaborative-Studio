@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 8
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Mar 16** | **Mar 18** |
-| class | NO CLASS - SPRING BREAK  | NO CLASS - SPRING BREAK  |
-| assignment|   |   |
+| class | NO CLASS - SPRING BREAK | NO CLASS - SPRING BREAK |
+| assignment |  |  |
+

@@ -4,8 +4,9 @@
 
 ## [Schedule:](./) Week 13
 
-| wk | Mondays  | Wednesdays  |
-| --- | --- | --- | --- | --- | --- | --- |
+| wk | Mondays | Wednesdays |
+| :--- | :--- | :--- |
 | 1 | **Apr 20** | **Apr 22** |
-| class | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors  | Working Session: Share Final Project High Fidelity Systems Map & Tool(s) Prototyping with instructors |
-| assignment| Project progress  | Project progress  |
+| class | Working Session: Share Final Project High Fidelity Systems Map & Tool\(s\) Prototyping with instructors | Working Session: Share Final Project High Fidelity Systems Map & Tool\(s\) Prototyping with instructors |
+| assignment | Project progress | Project progress |
+
