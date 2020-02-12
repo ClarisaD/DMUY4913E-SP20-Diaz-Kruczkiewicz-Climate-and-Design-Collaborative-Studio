@@ -7,6 +7,6 @@
 | wk | Mondays | Wednesdays |
 | :--- | :--- | :--- |
 | 1 | **Feb 24** | **Feb 26** |
-| class | Translator Profile DUE and posted on blog. Discuss Translator Profiles. Map Slam I. | Climate Spectrum DUE and posted on blog, Spectrum Swap in class. Midterm Working Session: Research, User Profiles & Systems in Mongolia for Communicating Risk |
-| assignment | Post response to Map Slam on your blog.  Midterm: Create a systems map for the topics in your research. Narrow down to one or two problems and create a stakeholder map of who would be involved in solving them. | Personal Climate Spectrum assignment. Midterm: Sketch out 3 proposal ideas for how to address the problems you've identified. |
+| class | Translator Profile DUE and posted on blog. Discuss Translator Profiles. Map Slam I. | Midterm Working Session: Research, User Profiles & Systems in Mongolia for Communicating Risk |
+| assignment | Post response to Map Slam on your blog.  Midterm: Create a systems map for the topics in your research. Narrow down to one or two problems and create a stakeholder map of who would be involved in solving them. |  Midterm: Sketch out 3 proposal ideas for how to address the problems you've identified. |
 

@@ -7,6 +7,6 @@
 | wk | Mondays | Wednesdays |
 | :--- | :--- | :--- |
 | 1 | **Feb 17** | **Feb 19** |
-| class | NO CLASS - Presidents' Day | Weather Forecast Log DUE and posted on blog, share in class. Climate Spectrum. Translator Profile. Class exercise: Assume the role of a weather forecaster or a red cross worker, work through a weather emergency scenario. Individual Midterm Exploring, Brainstorm: Research Directions |
-| assignment |  | Write a response to the class exercise on your blog. What would be the roles and responsibilities of a translator in this scenario \(person, piece of tech etc\) Translator Profile Assignment, Climate Spectrum Assignment.  Midterm:  Individual Midterm Exploring, Brainstorm Research Directions |
+| class | NO CLASS - Presidents' Day | Weather Forecast Log DUE and posted on blog, Climate Spectrum DUE and posted on blog, Personal Climate Spectrum DUE and posted on blog, share in class. Spectrum Swap in class. Translator Profile. Class exercise: Assume the role of a weather forecaster or a red cross worker, work through a weather emergency scenario. Individual Midterm Exploring, Brainstorm: Research Directions |
+| assignment |  | Write a response to Spectrum Swap in class.  Write a response to the Translator class exercise on your blog. What would be the roles and responsibilities of a translator in this scenario \(person, piece of tech etc\) Translator Profile Assignment. Midterm:  Individual Midterm Exploring, Brainstorm Research Directions |
 
