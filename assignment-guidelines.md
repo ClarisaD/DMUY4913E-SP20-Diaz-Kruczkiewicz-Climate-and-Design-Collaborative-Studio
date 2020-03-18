@@ -26,5 +26,6 @@ Student Blogs:
  [Gustavo Toledo](https://gnt2141.wixsite.com/mysite)   
  [Melia Walker](https://meliasprocess.weebly.com/climate-and-design-studio)   
  [Michelle Yin](https://mixiaoymx.tumblr.com/)   
- [Daniel Lee]()   
+ [Daniel Lee](https://dl34152.wixsite.com/climatedesignstudio)   
+ [Curtis Pak](https://wp.nyu.edu/curtisclimateanddesign/)
 
