@@ -6,7 +6,7 @@
 
 ## Final Project
 
-Working in groups of two, you will combine ideas, research, analyze, evaluate, and communicate the research & design for a proposal to adapt to dzuds in Mongolia. The final result is a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.
+Continue research, analyze, evaluate, and communicate the research & design for a proposal to adapt to dzuds in Mongolia. The final result is presentation of visuals showing the project and scenarios in which it exists, a systems map of your proposal including stakeholders, and a tool or multiple tools that will execute the proposal's plan.  Working in pairs virtually during COVID-19 will only be permitted with approval from instructors, where we review your project plan for virutal meetings and division of work. This must be approved by Wednesday, April 8, 2020.
 
 ### Annotated Bibliography
 
